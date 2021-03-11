@@ -1,2 +1,3 @@
 "Package","Item","Title","csv","doc"
-"datasets","APBD","Data APBD 2010-2020","https://raw.githubusercontent.com/BetaUliansyah/danarakca/main/datasets/csv/apbd.csv","https://raw.githubusercontent.com/BetaUliansyah/danarakca/main/datasets/doc/apbd.html"
+"datasets","APBD","Data APBD 2010-2020","https://raw.githubusercontent.com/BetaUliansyah/danarakca/main/danarakca/datasets/csv/apbd.csv","https://raw.githubusercontent.com/BetaUliansyah/danarakca/main/danarakca/datasets/doc/apbd.html"
+"datasets","APBD2020COVID","Data APBD Perubahan 2020 Dampak COVID-19","https://raw.githubusercontent.com/BetaUliansyah/danarakca/main/datasets/csv/apbd.csv","https://raw.githubusercontent.com/BetaUliansyah/danarakca/main/datasets/doc/apbd.html"
