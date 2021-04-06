@@ -1,0 +1,544 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+0,Daerah,Kriteria Utama,Opini BPK atas LKPD 2017,Penetapan Perda APBD 2018,Penggunaan e-procurement,Penggunaan e-budgeting,Ketersediaan PTSP,Memenuhi/Tidak Memenuhi Kriteria Utama,Kategori Kinerja,"Kesehatan Fiskal dan Pengelolaan Keuangan Daerah (Passing Grade = 63,65)",Pelayanan Dasar Publik,"Infrastruktur (Passing Grade = 65,93)","Kesehatan (Passing Grade = 66,49)","Pendidikan (Passing Grade = 62,20)","Kesejahteraan Masyarakat (Passing Grade = 63,96)",Pelayanan Pemerintahan Umum,Inovasi Pelayanan Publik,Kemudahan Berusaha,Pengelolaan Sampah,Penyelenggaraan Pemerintahan,Perencanaan Daerah,SAKIP
+1,Provinsi Aceh,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"51,47",-,"59,33","43,08","48,91","49,97",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+2,Kab. Aceh Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,50",-,"52,04","66,71","61,18","70,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+3,Kab. Aceh Besar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,60",-,"47,23","46,83","64,64","55,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+4,Kab. Aceh Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"48,65",-,"47,02","38,12","63,15","65,92",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+5,Kab. Aceh Singkil,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,74",-,"71,88","46,31","44,40","49,65",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+6,Kab. Aceh Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,41",-,"53,21","52,41","55,94","48,76",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+7,Kab. Aceh Tenggara,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"49,24",-,"60,54","42,61","48,43","60,59",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+8,Kab. Aceh Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,32",-,"53,79","43,54","68,88","65,80",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+9,Kab. Aceh Utara,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"50,37",-,"52,38","61,67","66,51","51,19",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+10,Kab. Bireuen,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,92",-,"52,73","72,93","68,53","73,86",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+11,Kab. Pidie                                        ,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"51,06",-,"58,93","48,95","63,63","51,04",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+12,Kab. Simeulue,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,33",-,"43,95","59,79","62,29","55,71",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+13,Kota Banda Aceh,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,68",-,"76,79","84,68","52,36","60,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+14,Kota Sabang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,59",-,"63,39","62,77","71,45","50,78",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+15,Kota Langsa,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,01",-,"61,28","58,61","45,10","53,73",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+16,Kota Lhokseumawe,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,33",-,"68,04","61,57","57,37","53,01",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+17,Kab. Gayo Lues,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,22",-,"59,58","58,61","60,11","54,91",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+18,Kab. Aceh Barat Daya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,77",-,"50,10","53,20","55,25","50,90",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+19,Kab. Aceh Jaya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"70,50",-,"69,32","52,67","51,46","54,34",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+20,Kab. Nagan Raya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,40",-,"47,90","78,08","48,85","51,51",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+21,Kab. Aceh Tamiang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,43",-,"56,41","55,89","67,20","54,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+22,Kab. Bener Meriah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,69",-,"43,46","80,82","62,36","64,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+23,Kab. Pidie Jaya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"43,50",-,"72,43","61,82","51,21","58,06",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+24,Kota Subulussalam,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,67",-,"34,15","24,18","46,37","36,07",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+25,Provinsi Sumatera Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"48,96",-,"59,63","52,82","60,74","56,93",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+26,Kab. Asahan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,84",-,"56,81","79,14","63,72","62,97",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+27,Kab. Dairi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,48",-,"61,91","63,64","60,86","71,48",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+28,Kab. Deli Serdang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"70,43",-,"69,66","61,21","69,88","75,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+29,Kab. Karo,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,02",-,"59,37","63,65","42,74","53,51",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+30,Kab. Labuhanbatu,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"55,12",-,"65,14","68,63","72,15","65,50",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+31,Kab. Langkat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,58",-,"61,14","60,25","62,41","69,86",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+32,Kab. Mandailing Natal,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,59",-,"44,26","45,08","57,61","55,30",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+33,Kab. Nias,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,18",-,"58,50","45,63","71,07","48,80",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+34,Kab. Simalungun,-,TMP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,24",-,"74,11","41,58","58,19","58,57",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+35,Kab. Tapanuli Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,35",-,"61,78","64,12","59,61","82,18",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+36,Kab. Tapanuli Tengah,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,89",-,"53,84","78,92","61,77","60,65",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+37,Kab. Tapanuli Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,18",-,"52,56","65,66","65,96","58,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+38,Kab. Toba Samosir,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,18",-,"58,74","65,93","71,45","53,53",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+39,Kota Binjai,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,84",-,"61,87","66,03","43,39","57,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+40,Kota Medan,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"64,09",-,"82,77","78,20","65,00","73,15",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+41,Kota Pematang Siantar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"47,73",-,"75,08","82,36","59,46","56,83",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+42,Kota Sibolga,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,50",-,"38,60","57,24","61,81","34,48",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+43,Kota Tanjung Balai,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"45,33",-,"67,49","43,37","40,87","40,73",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+44,Kota Tebing Tinggi,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,42",-,"56,51","37,24","60,60","44,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+45,Kota Padang Sidempuan,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,46",-,"46,24","60,44","59,45","54,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+46,Kab. Pakpak Bharat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,56",-,"44,23","79,07","58,46","62,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+47,Kab. Nias Selatan,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,72",-,"26,66","47,58","55,04","60,92",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+48,Kab. Humbang Hasundutan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,04",-,"54,12","63,38","66,59","63,24",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+49,Kab. Serdang Bedagai,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"48,01",-,"54,71","49,74","60,21","70,67",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+50,Kab. Samosir,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,88",-,"71,20","49,24","64,17","61,28",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+51,Kab. Batu Bara,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"55,51",-,"60,74","73,97","61,86","55,37",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+52,Kab. Padang Lawas,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,95",-,"44,67","48,33","63,24","63,48",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+53,Kab. Padang Lawas Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,48",-,"53,61","65,89","58,69","56,96",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+54,Kab. Labuhanbatu Selatan,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,02",-,"70,69","54,47","71,35","51,12",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+55,Kab. Labuhanbatu Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,34",-,"39,86","66,79","61,29","57,72",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+56,Kab. Nias Utara,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"65,09",-,"43,48","59,24","59,43","54,88",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+57,Kab. Nias Barat,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,74",-,"55,36","63,12","66,31","61,77",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+58,Kota Gunungsitoli                                 ,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"45,77",-,"42,33","56,84","57,82","57,94",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+59,Provinsi Sumatera Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"44,11",-,"50,84","58,05","58,65","54,99",-,"70,00",Tidak,Tidak,Tidak,Tidak,"72,92"
+60,Kab. Limapuluh Kota,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,20",-,"66,54","84,73","75,62","65,50",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+61,Kab. Agam  ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,20",-,"76,06","64,88","77,36","78,83",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+62,Kab. Kepulauan Mentawai,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,99",-,"58,20","77,03","74,17","75,44",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+63,Kab. Padang Pariaman    ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"68,66",-,"55,46","55,96","73,88","71,06",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+64,Kab. Pasaman    ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,93",-,"65,41","58,26","67,81","63,64",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+65,Kab. Pesisir Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,21",-,"64,71","72,08","71,88","58,89",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+66,Kab. Sijunjung                                    ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,10",-,"63,22","46,33","60,38","76,93",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+67,Kab. Solok,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,93",-,"50,43","56,31","70,98","63,97",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+68,Kab. Tanah Datar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,57",-,"62,03","68,79","72,54","60,97",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+69,Kota Bukit Tinggi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,45",-,"79,90","60,13","57,43","83,42",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+70,Kota Padang Panjang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,27",-,"67,42","63,84","75,56","79,42",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+71,Kota Padang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"74,98",-,"49,76","62,60","63,77","67,33",-,"70,00",Tidak,"74,30",Tidak,Tidak,"70,46"
+72,Kota Payakumbuh,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"71,59",-,"76,96","52,70","61,77","74,49",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,26"
+73,Kota Sawahlunto,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,79",-,"64,16","64,14","68,80","71,34",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+74,Kota Solok,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"41,82",-,"62,78","62,61","65,63","70,21",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+75,Kota Pariaman,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,41",-,"60,08","65,54","62,54","54,07",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+76,Kab. Pasaman Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,26",-,"38,10","58,53","71,95","70,84",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+77,Kab. Dharmasraya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,23",-,"60,55","73,54","72,15","72,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+78,Kab. Solok Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"70,80",-,"58,95","76,74","74,42","58,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+79,Provinsi Riau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,07",-,"47,27","50,21","67,70","60,94",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+80,Kab. Bengkalis,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"76,91",-,"60,18","67,02","60,94","54,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+81,Kab. Indragiri Hilir,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,60",-,"50,01","67,66","60,60","82,77",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+82,Kab. Indragiri Hulu,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"70,62",-,"59,99","39,11","61,05","59,50",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+83,Kab. Kampar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,95",-,"63,32","57,75","58,76","79,07",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+84,Kab. Kuantan Singingi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,09",-,"72,27","64,00","52,83","70,44",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+85,Kab. Pelalawan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,02",-,"51,00","72,71","60,84","70,75",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+86,Kab. Rokan Hilir,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"72,19",-,"58,90","60,92","66,31","58,42",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+87,Kab. Rokan Hulu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,84",-,"47,88","46,01","66,64","75,73",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+88,Kab. Siak,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"72,04",-,"73,41","69,17","57,07","62,10",-,Tidak,"88,21",Tidak,Tidak,Tidak,Tidak
+89,Kota Dumai,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,82",-,"56,19","38,99","64,16","71,04",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+90,Kota Pekanbaru,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,70",-,"65,85","47,73","60,79","61,20",-,Tidak,"86,83",Tidak,Tidak,Tidak,Tidak
+91,Kab. Kepulauan Meranti,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"47,38",-,"44,78","67,90","65,36","75,55",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+92,Provinsi Jambi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"78,33",-,"58,11","67,24","45,40","58,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+93,Kab. Batang Hari,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,11",-,"68,35","60,75","54,98","69,94",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+94,Kab. Bungo     ,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"67,73",-,"69,39","79,76","64,06","60,21",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+95,Kab. Kerinci,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,86",-,"61,15","56,42","79,40","53,43",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+96,Kab. Merangin,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,26",-,"65,28","73,85","73,70","76,45",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+97,Kab. Muaro Jambi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,14",-,"42,38","71,68","68,13","54,29",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+98,Kab. Sarolangun,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"47,54",-,"67,91","57,33","66,84","64,62",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+99,Kab. Tanjung Jabung Barat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,20",-,"69,65","57,11","60,67","68,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+100,Kab. Tanjung Jabung Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,80",-,"56,11","73,68","59,49","65,72",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+101,Kab. Tebo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,27",-,"49,78","64,93","65,44","59,23",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+102,Kota Jambi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,40",-,"76,69","64,02","48,11","63,62",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+103,Kota Sungai Penuh,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,92",-,"73,70","68,47","77,63","73,37",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+104,Provinsi Sumatera Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"73,71",-,"58,41","70,46","68,39","70,52",-,Tidak,Tidak,Tidak,Tidak,"72,20","80,01"
+105,Kab. Lahat,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"64,34",-,"50,44","71,18","69,35","71,14",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+106,Kab. Musi Banyuasin,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,75",-,"57,68","55,72","69,61","71,44",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+107,Kab. Musi Rawas,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,47",-,"48,63","64,71","59,98","59,70",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+108,Kab. Muara Enim,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,51",-,"58,24","81,70","60,02","80,14",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,02"
+109,Kab. Ogan Komering Ilir,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,51",-,"70,83","79,80","66,45","71,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+110,Kab. Ogan Komering Ulu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,99",-,"58,36","65,41","64,19","80,58",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+111,Kota Palembang ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"73,36",-,"89,16","81,66","53,63","73,77",-,Tidak,Tidak,Tidak,Tidak,"73,60",Tidak
+112,Kota Prabumulih,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,12",-,"73,31","66,97","65,89","44,72",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+113,Kota Pagar Alam,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"45,24",-,"37,38","56,65","55,18","71,33",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+114,Kota Lubuk Linggau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,62",-,"50,82","80,57","48,82","55,41",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+115,Kab. Banyuasin,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,13",-,"74,78","59,73","72,50","80,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+116,Kab. Ogan Ilir,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,30",-,"47,40","68,48","65,26","53,99",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+117,Kab. OKU Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,97",-,"62,64","54,21","79,96","69,05",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+118,Kab. OKU Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,19",-,"54,97","69,23","57,69","54,80",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+119,Kab. Empat Lawang,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"50,55",-,"63,82","48,65","68,28","54,03",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+120,Kab. Penukal Abab Lematang Ilir,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"73,07",-,"67,37","77,68","60,37","64,53",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+121,Kab. Musi Rawas Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,30",-,"41,73","66,36","66,40","61,82",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+122,Provinsi  Bengkulu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,83",-,"48,41","51,41","71,54","68,41",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+123,Kab. Bengkulu Selatan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"56,23",-,"54,73","59,00","71,29","63,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+124,Kab. Bengkulu Utara,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"45,45",-,"51,89","55,56","61,09","67,76",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+125,Kab. Rejang Lebong,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"51,64",-,"64,83","79,65","71,48","65,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+126,Kota Bengkulu,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"67,33",-,"79,27","57,41","69,41","73,04",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+127,Kab. Kaur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"53,22",-,"29,88","68,06","74,85","61,55",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+128,Kab. Seluma,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,14",-,"36,41","84,09","71,70","80,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+129,Kab. Mukomuko,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,10",-,"55,75","50,24","78,46","74,23",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+130,Kab. Lebong,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"47,24",-,"42,15","50,80","68,59","61,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+131,Kab. Kepahiang,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,59",-,"38,49","51,12","73,33","59,26",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+132,Kab. Bengkulu Tengah,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,67",-,"71,21","49,35","64,61","63,43",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+133,Provinsi  Lampung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"71,08",-,"50,86","50,16","61,99","69,27",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+134,Kab. Lampung Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,43",-,"74,80","53,45","72,72","78,74",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+135,Kab. Lampung Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,16",-,"69,47","64,52","74,78","78,64",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+136,Kab. Lampung Tengah,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,98",-,"42,24","52,12","64,74","74,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+137,Kab. Lampung Utara,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,81",-,"50,16","56,60","70,12","74,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+138,Kab. Lampung Timur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"50,65",-,"53,66","67,82","74,33","65,93",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+139,Kab. Tanggamus,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,29",-,"49,79","62,55","56,87","72,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+140,Kab. Tulang Bawang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,09",-,"58,44","70,10","65,06","56,75",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+141,Kab. Way Kanan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,28",-,"43,84","48,79","66,87","66,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+142,Kota Bandar Lampung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,32",-,"53,59","49,46","63,00","67,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+143,Kota Metro,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,39",-,"67,38","60,67","74,57","67,72",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+144,Kab. Pesawaran,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,51",-,"56,75","48,39","67,00","82,95",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+145,Kab. Pringsewu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,32",-,"48,49","62,98","55,06","62,97",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+146,Kab. Mesuji,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,86",-,"45,53","62,86","65,27","80,84",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+147,Kab. Tulang Bawang Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,51",-,"57,91","48,80","66,28","81,80",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+148,Kab. Pesisir Barat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"59,03",-,"55,44","59,33","60,16","69,96",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+149,Provinsi DKI Jakarta,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,48",-,"45,15","53,30","74,26","62,50",-,"90,00","87,12","73,50",Tidak,Tidak,Tidak
+150,Provinsi Jawa Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,94",-,"76,65","56,17","52,76","71,15",-,Tidak,Tidak,Tidak,"81,24",Tidak,"80,96"
+151,Kab. Bandung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,91",-,"78,60","44,44","55,44","66,43",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+152,Kab. Bekasi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,44",-,"77,45","63,56","48,59","75,00",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+153,Kab. Bogor,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"71,13",-,"73,15","61,65","48,16","83,60",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+154,Kab. Ciamis,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,23",-,"62,19","58,74","77,36","64,95",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+155,Kab. Cianjur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,97",-,"44,83","56,50","76,11","66,92",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+156,Kab. Cirebon,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,04",-,"75,63","63,08","67,06","80,16",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+157,Kab. Garut,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"44,65",-,"61,83","44,58","54,25","79,88",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+158,Kab. Indramayu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,42",-,"76,79","56,01","57,99","72,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+159,Kab. Karawang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,09",-,"71,24","80,60","76,85","70,10",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+160,Kab. Kuningan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,18",-,"67,12","80,90","61,52","61,41",-,Tidak,Tidak,Tidak,"87,44",Tidak,Tidak
+161,Kab. Majalengka,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,73",-,"58,95","85,72","66,91","73,46",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+162,Kab. Purwakarta,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,58",-,"54,13","53,78","55,38","64,62",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+163,Kab. Subang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,93",-,"70,23","69,43","54,24","75,39",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+164,Kab. Sukabumi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,11",-,"65,82","58,12","71,80","57,26",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+165,Kab. Sumedang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,99",-,"85,67","77,69","67,98","70,34",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+166,Kab. Tasikmalaya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"41,20",-,"50,22","72,02","70,54","67,46",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+167,Kota Bandung,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"62,38",-,"71,35","69,07","57,12","66,56",-,"70,00",Tidak,"84,50","85,28",Tidak,"80,38"
+168,Kota Bekasi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"71,32",-,"71,73","72,08","81,80","78,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+169,Kota Bogor,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,99",-,"63,96","72,68","57,15","76,31",-,"70,00",Tidak,"73,10",Tidak,Tidak,Tidak
+170,Kota Cirebon,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,02",-,"83,67","73,57","42,60","53,42",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+171,Kota Depok,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,60",-,"77,07","57,77","45,63","61,84",-,Tidak,Tidak,"74,30",Tidak,Tidak,Tidak
+172,Kota Sukabumi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,30",-,"54,49","86,26","56,11","72,42",-,Tidak,Tidak,Tidak,Tidak,Tidak,"74,50"
+173,Kota Tasikmalaya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,31",-,"48,67","74,43","39,99","69,88",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+174,Kota Cimahi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,46",-,"64,69","72,35","51,90","61,06",-,"70,00",Tidak,"76,00",Tidak,Tidak,Tidak
+175,Kota Banjar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,46",-,"85,74","88,93","39,87","59,04",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+176,Kab. Bandung Barat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"65,59",-,"79,88","66,61","83,19","74,45",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+177,Kab. Pangandaran,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"78,34",-,"68,68","77,29","66,57","81,59",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+178,Provinsi Jawa Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,64",-,"68,40","65,64","83,04","60,19",-,"75,00","88,49",Tidak,"78,11",Tidak,"75,94"
+179,Kab. Banjarnegara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,63",-,"47,78","63,41","73,19","58,16",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+180,Kab. Banyumas,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,17",-,"60,89","83,92","71,30","54,23",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+181,Kab. Batang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,85",-,"53,57","65,29","73,21","81,45",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+182,Kab. Blora,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,22",-,"66,84","59,43","73,32","80,18",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+183,Kab. Boyolali,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,97",-,"67,31","83,71","77,11","64,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+184,Kab. Brebes,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"60,72",-,"66,24","64,27","79,11","75,30",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+185,Kab. Cilacap,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,34",-,"82,68","73,63","70,77","55,26",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+186,Kab. Demak,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,33",-,"72,47","77,65","70,51","68,77",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+187,Kab. Grobogan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,36",-,"78,95","64,67","75,89","61,90",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+188,Kab. Jepara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,17",-,"68,82","71,25","65,32","72,12",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+189,Kab. Karanganyar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,85",-,"57,92","80,18","72,24","59,13",-,Tidak,Tidak,Tidak,"88,80",Tidak,Tidak
+190,Kab. Kebumen,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,97",-,"69,01","52,68","77,88","76,58",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+191,Kab. Kendal,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,08",-,"70,44","64,54","67,97","70,25",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+192,Kab. Klaten,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"56,88",-,"65,48","90,46","68,74","63,82",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+193,Kab. Kudus,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,10",-,"78,86","78,42","74,26","80,08",-,Tidak,Tidak,Tidak,"87,42",Tidak,Tidak
+194,Kab. Magelang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"68,94",-,"75,25","55,90","72,44","68,44",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+195,Kab. Pati,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,40",-,"72,30","52,78","83,09","82,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+196,Kab. Pekalongan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,33",-,"80,09","62,03","73,25","74,58",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+197,Kab. Pemalang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,26",-,"59,52","80,30","70,64","70,19",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+198,Kab. Purbalingga,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,85",-,"61,88","74,37","78,75","51,80",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+199,Kab. Purworejo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,98",-,"78,21","66,50","83,70","68,94",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+200,Kab. Rembang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"55,97",-,"58,77","57,89","75,30","52,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+201,Kab. Semarang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,53",-,"63,96","87,62","70,54","73,42",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+202,Kab. Sragen,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,85",-,"71,52","80,66","73,06","81,81",-,Tidak,"84,80",Tidak,Tidak,Tidak,Tidak
+203,Kab. Sukoharjo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,37",-,"69,49","75,71","68,88","73,91",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+204,Kab. Tegal,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,31",-,"77,64","59,18","78,94","69,07",-,Tidak,Tidak,Tidak,Tidak,"78,60",Tidak
+205,Kab. Temanggung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"48,57",-,"61,99","75,48","71,65","69,00",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+206,Kab. Wonogiri,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,12",-,"78,13","84,23","72,47","62,03",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+207,Kab. Wonosobo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,13",-,"52,18","72,31","69,81","63,01",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+208,Kota Magelang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,23",-,"76,47","71,04","62,96","71,18",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+209,Kota Pekalongan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,78",-,"70,83","66,66","69,63","74,37",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+210,Kota Salatiga,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"42,15",-,"85,45","54,95","78,17","79,57",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+211,Kota Semarang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"77,11",-,"68,11","72,32","68,94","92,94",-,Tidak,"86,00",Tidak,"85,36",Tidak,Tidak
+212,Kota Surakarta,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,09",-,"57,47","54,92","75,22","66,13",-,Tidak,"86,47",Tidak,Tidak,"73,20",Tidak
+213,Kota Tegal,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,39",-,"78,06","59,49","61,38","61,35",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+214,Provinsi DI Yogyakarta,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,86",-,"68,71","92,56","76,60","63,91",-,Tidak,Tidak,Tidak,Tidak,Tidak,"84,22"
+215,Kab. Bantul,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,77",-,"70,28","76,30","70,97","72,13",-,Tidak,Tidak,Tidak,Tidak,Tidak,"77,90"
+216,Kab. Gunung Kidul,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,09",-,"74,82","73,61","69,64","83,60",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+217,Kab. Kulon Progo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"68,85",-,"67,57","78,13","71,13","78,57",-,Tidak,Tidak,Tidak,Tidak,Tidak,"75,54"
+218,Kab. Sleman,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,57",-,"68,38","89,19","82,85","77,60",-,Tidak,Tidak,Tidak,Tidak,Tidak,"78,06"
+219,Kota Yogyakarta,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"77,30",-,"64,40","65,52","71,18","62,14",-,Tidak,Tidak,Tidak,Tidak,Tidak,"71,95"
+220,Provinsi Jawa Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,69",-,"65,70","75,66","76,78","54,94",-,"82,00","87,64",Tidak,"83,16","79,10","81,21"
+221,Kab. Bangkalan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,17",-,"61,67","50,43","54,64","47,82",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+222,Kab. Banyuwangi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,13",-,"80,42","71,45","61,80","71,29",-,"70,00",Tidak,Tidak,"88,15","74,60","81,31"
+223,Kab. Blitar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,23",-,"55,95","70,85","61,57","64,20",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+224,Kab. Bojonegoro,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,44",-,"66,67","82,93","81,80","66,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+225,Kab. Bondowoso,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,65",-,"56,14","56,52","49,96","65,51",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,47"
+226,Kab. Gresik,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,29",-,"72,59","71,08","64,05","64,90",-,Tidak,Tidak,Tidak,Tidak,Tidak,"71,67"
+227,Kab. Jember,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,27",-,"72,75","80,80","57,62","67,74",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+228,Kab. Jombang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,38",-,"81,19","64,08","73,94","76,99",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+229,Kab. Kediri,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,22",-,"64,53","73,61","79,41","81,99",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+230,Kab. Lamongan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,26",-,"75,55","77,54","55,09","80,98",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,96"
+231,Kab. Lumajang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,34",-,"49,29","68,33","62,25","67,48",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+232,Kab. Madiun,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,03",-,"71,98","85,49","75,60","75,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+233,Kab. Magetan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,16",-,"60,64","88,75","67,10","84,03",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+234,Kab. Malang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"68,74",-,"71,77","70,50","65,74","81,81",-,"75,00",Tidak,Tidak,"88,01",Tidak,"70,51"
+235,Kab. Mojokerto,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,46",-,"75,83","73,32","60,92","84,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+236,Kab. Nganjuk,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,65",-,"71,21","72,39","74,98","63,50",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+237,Kab. Ngawi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,44",-,"72,60","80,01","65,84","61,10",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,04"
+238,Kab. Pacitan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,22",-,"54,85","83,31","74,04","65,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+239,Kab. Pamekasan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,35",-,"49,59","63,39","49,99","83,47",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+240,Kab. Pasuruan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,49",-,"47,53","70,92","61,52","75,17",-,Tidak,Tidak,Tidak,"87,82",Tidak,"74,03"
+241,Kab. Ponorogo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"71,13",-,"58,39","69,36","70,41","63,21",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+242,Kab. Probolinggo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,04",-,"73,19","74,32","62,68","61,70",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,04"
+243,Kab. Sampang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"53,28",-,"66,10","65,28","56,63","76,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+244,Kab. Sidoarjo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"46,35",-,"71,11","81,87","73,60","70,61",-,Tidak,Tidak,Tidak,"89,82",Tidak,"71,69"
+245,Kab. Situbondo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,94",-,"48,65","57,00","66,50","73,08",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+246,Kab. Sumenep,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"45,34",-,"52,41","62,23","62,01","81,00",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+247,Kab. Trenggalek,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,77",-,"59,39","78,45","73,73","61,74",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+248,Kab. Tuban,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,79",-,"70,58","89,93","70,18","65,03",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+249,Kab. Tulungagung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,03",-,"66,09","72,83","81,56","66,12",-,"75,00",Tidak,Tidak,"89,81",Tidak,"70,94"
+250,Kota Blitar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,43",-,"77,83","78,37","73,63","52,43",-,Tidak,Tidak,Tidak,"86,54",Tidak,"70,86"
+251,Kota Kediri,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"46,55",-,"69,94","75,04","76,84","64,44",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+252,Kota Madiun,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,04",-,"71,12","78,57","76,41","65,50",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+253,Kota Malang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,85",-,"69,30","77,55","75,09","66,94",-,Tidak,Tidak,"78,70","89,40",Tidak,"70,96"
+254,Kota Mojokerto,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,00",-,"73,34","98,72","68,89","60,90",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+255,Kota Pasuruan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,45",-,"67,32","71,45","68,55","56,24",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+256,Kota Probolinggo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,11",-,"73,10","90,01","54,02","65,85",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+257,Kota Surabaya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"79,50",-,"85,57","53,14","79,97","91,03",-,"80,00",Tidak,"76,00","87,79",Tidak,Tidak
+258,Kota Batu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,95",-,"58,47","59,12","62,83","78,47",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+259,Provinsi Kalimantan Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"72,74",-,"60,66","51,34","56,65","41,74",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+260,Kab. Bengkayang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"56,49",-,"54,85","54,95","58,91","57,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+261,Kab. Landak,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,39",-,"50,32","64,85","57,63","54,49",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+262,Kab. Kapuas Hulu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,80",-,"54,85","53,89","48,16","62,07",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+263,Kab. Ketapang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,13",-,"57,63","68,02","61,04","68,07",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+264,Kab. Mempawah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,40",-,"63,17","51,71","65,49","51,60",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+265,Kab. Sambas,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"55,97",-,"66,59","73,99","58,51","69,62",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+266,Kab. Sanggau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,30",-,"42,10","29,87","47,76","65,23",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+267,Kab. Sintang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,63",-,"49,49","57,13","54,36","49,56",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+268,Kota Pontianak,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,57",-,"75,73","72,37","42,95","75,15",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,02"
+269,Kota Singkawang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,63",-,"62,20","66,71","59,53","41,53",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+270,Kab. Sekadau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,58",-,"32,10","44,46","59,71","57,10",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+271,Kab. Melawi,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"60,93",-,"48,09","70,35","45,31","54,07",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+272,Kab. Kayong Utara,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,77",-,"70,19","76,65","54,29","73,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+273,Kab. Kubu Raya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,30",-,"71,20","41,18","51,01","65,55",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+274,Provinsi Kalimantan Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,42",-,"39,39","29,98","47,71","79,83",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+275,Kab. Barito Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,86",-,"35,11","58,03","61,60","61,13",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+276,Kab. Barito Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"43,75",-,"53,73","57,91","70,99","73,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+277,Kab. Kapuas,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,73",-,"68,59","38,90","58,70","85,06",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+278,Kab. Kotawaringin Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,31",-,"51,70","45,00","67,74","87,39",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+279,Kab. Kotawaringin Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,36",-,"51,28","46,86","59,91","72,97",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+280,Kota Palangkaraya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,44",-,"62,72","47,23","35,91","79,00",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+281,Kab. Katingan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"62,21",-,"49,11","47,18","58,07","65,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+282,Kab. Seruyan,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,43",-,"44,10","74,23","74,37","82,90",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+283,Kab. Sukamara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,58",-,"62,14","62,03","67,61","73,25",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+284,Kab. Lamandau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,16",-,"50,25","47,59","65,64","80,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+285,Kab. Gunung Mas,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,62",-,"75,01","51,80","51,83","54,37",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+286,Kab. Pulang Pisau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,97",-,"50,41","60,91","54,11","72,16",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+287,Kab. Murung Raya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"48,74",-,"53,09","43,60","44,55","65,57",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+288,Kab. Barito Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"70,00",-,"51,18","44,95","49,69","72,59",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+289,Provinsi Kalimantan Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"70,23",-,"41,13","59,05","70,88","67,83",-,"70,00",Tidak,Tidak,Tidak,Tidak,"77,29"
+290,Kab. Banjar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"36,78",-,"58,87","76,58","54,17","80,10",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+291,Kab. Barito Kuala,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,60",-,"41,23","67,21","62,53","71,26",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+292,Kab. Hulu Sungai Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,21",-,"61,61","37,26","66,35","72,16",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,02"
+293,Kab. Hulu Sungai Tengah,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"53,19",-,"51,93","60,42","52,39","71,97",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+294,Kab. Hulu Sungai Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,20",-,"72,85","72,34","62,62","76,26",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+295,Kab. Kotabaru                                     ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,51",-,"44,94","31,81","56,82","73,01",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+296,Kab. Tabalong,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,12",-,"61,40","65,88","51,23","79,58",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+297,Kab. Tanah Laut,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"46,69",-,"48,86","51,25","65,22","66,72",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+298,Kab. Tapin,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,27",-,"69,77","51,35","58,65","67,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+299,Kota Banjarbaru                                   ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"68,06",-,"60,80","72,57","54,76","57,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+300,Kota Banjarmasin,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"48,60",-,"59,34","71,20","63,63","68,53",-,Tidak,Tidak,"76,10",Tidak,Tidak,Tidak
+301,Kab. Balangan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"44,78",-,"46,84","54,60","64,81","71,98",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+302,Kab. Tanah Bumbu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,24",-,"58,20","87,40","58,41","85,74",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+303,Provinsi Kalimantan Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,80",-,"61,97","61,53","51,58","54,07",-,Tidak,Tidak,Tidak,Tidak,Tidak,"77,50"
+304,Kab. Berau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,22",-,"56,39","77,06","62,26","62,51",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+305,Kab. Kutai Kartanegara,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"51,99",-,"62,19","67,76","65,61","67,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+306,Kab. Kutai Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,25",-,"58,32","55,85","61,56","52,73",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+307,Kab. Kutai Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,16",-,"70,90","76,32","64,81","71,93",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+308,Kab. Paser,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,14",-,"47,77","60,41","65,22","52,84",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+309,Kota Balikpapan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,38",-,"71,94","55,89","78,15","66,64",-,Tidak,Tidak,"90,10",Tidak,Tidak,Tidak
+310,Kota Bontang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,90",-,"73,85","64,19","61,95","70,77",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+311,Kota Samarinda,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,20",-,"72,13","63,41","70,42","64,95",-,Tidak,Tidak,Tidak,"84,99",Tidak,Tidak
+312,Kab. Penajam Paser Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"38,31",-,"56,12","70,36","71,03","66,08",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+313,Kab. Mahakam Ulu,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"55,96",-,"48,13","63,05","71,78","55,58",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+314,Provinsi Sulawesi Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"63,93",-,"66,29","44,54","49,74","72,95",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+315,Kab. Bolaang Mongondow,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,99",-,"69,40","49,82","65,99","63,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+316,Kab. Minahasa,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,80",-,"62,95","67,01","69,12","73,98",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+317,Kab. Kepulauan Sangihe,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,64",-,"64,16","57,21","62,11","81,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+318,Kota Bitung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,26",-,"63,94","56,97","53,54","55,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+319,Kota Manado,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,16",-,"68,15","52,30","62,15","62,61",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,38"
+320,Kab. Kepulauan Talaud,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,14",-,"57,86","44,73","82,67","69,74",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+321,Kab. Minahasa Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,59",-,"63,82","50,51","42,66","58,29",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+322,Kota Tomohon,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,61",-,"72,89","79,34","44,24","64,73",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+323,Kab. Minahasa Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,07",-,"58,67","49,49","54,43","79,41",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+324,Kab. Kep. Siau Tagulandang Biaro,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,85",-,"73,89","44,08","57,98","62,38",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+325,Kota Kotamobagu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"74,75",-,"56,88","70,45","33,90","61,68",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+326,Kab. Bolaang Mongondow Utara,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,37",-,"66,82","56,34","55,40","75,55",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+327,Kab. Minahasa Tenggara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"45,34",-,"44,99","61,13","46,88","73,93",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+328,Kab. Bolaang Mongondow Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"46,04",-,"60,41","79,36","56,36","70,52",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+329,Kab. Bolaang Mongondow Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,98",-,"58,49","46,95","48,44","65,42",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+330,Provinsi Sulawesi Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,28",-,"67,34","78,00","53,26","62,38",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+331,Kab. Banggai,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,45",-,"59,68","78,41","61,68","83,16",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,03"
+332,Kab. Banggai Kepulauan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,04",-,"63,71","74,88","67,78","70,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+333,Kab. Buol,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,25",-,"70,26","58,39","66,59","52,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+334,Kab. Toli-Toli,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,53",-,"49,90","72,49","49,88","65,94",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+335,Kab. Donggala,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,77",-,"57,85","80,26","63,82","57,04",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+336,Kab. Morowali,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"55,71",-,"59,57","71,86","60,81","80,58",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+337,Kab. Poso,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"65,25",-,"47,36","62,75","62,24","84,98",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+338,Kota Palu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,13",-,"66,66","68,47","62,12","82,35",-,Tidak,Tidak,Tidak,Tidak,"74,90",Tidak
+339,Kab. Parigi Moutong,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"43,96",-,"66,03","66,64","48,99","63,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+340,Kab. Tojo Una Una,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"40,73",-,"55,74","71,55","62,73","56,12",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+341,Kab. Sigi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,38",-,"59,54","55,81","64,77","67,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+342,Kab. Banggai Laut,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,86",-,"79,25","71,79","64,11","70,48",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+343,Kab. Morowali Utara,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"42,57",-,"62,51","65,29","57,10","72,23",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+344,Provinsi Sulawesi Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,79",-,"66,06","73,76","50,83","57,53",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+345,Kab. Bantaeng,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,97",-,"61,07","70,42","52,80","63,35",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+346,Kab. Barru,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,05",-,"84,57","87,45","57,65","58,11",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+347,Kab. Bone,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,60",-,"50,54","54,54","59,11","49,06",-,Tidak,Tidak,Tidak,"87,41",Tidak,Tidak
+348,Kab. Bulukumba,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,41",-,"65,50","66,95","62,14","70,52",-,Tidak,Tidak,Tidak,"87,42",Tidak,Tidak
+349,Kab. Enrekang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,78",-,"57,05","57,10","57,35","75,64",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+350,Kab. Gowa,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,14",-,"59,56","71,59","72,56","64,57",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+351,Kab. Jeneponto,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,04",-,"71,65","79,74","50,32","70,30",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+352,Kab. Luwu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,65",-,"49,68","60,18","55,23","61,52",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+353,Kab. Luwu Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,18",-,"73,56","92,46","60,70","61,03",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+354,Kab. Maros,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,62",-,"69,97","61,79","51,66","75,48",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+355,Kab. Pangkajene Kepulauan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,51",-,"88,32","55,83","62,32","53,14",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+356,Kota Palopo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,44",-,"88,35","59,22","56,74","51,15",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+357,Kab. Luwu Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,13",-,"69,50","79,79","54,46","60,20",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+358,Kab. Pinrang,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"51,24",-,"58,20","69,54","52,08","59,01",-,Tidak,"83,80",Tidak,Tidak,Tidak,Tidak
+359,Kab. Sinjai,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,08",-,"68,80","53,22","50,85","62,93",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+360,Kab. Kepulauan Selayar                            ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"43,18",-,"58,45","63,27","55,52","54,06",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+361,Kab. Sidenreng Rappang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,03",-,"50,14","64,54","56,71","67,12",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+362,Kab. Soppeng,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,88",-,"40,49","71,04","48,36","70,15",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+363,Kab. Takalar,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,56",-,"75,09","86,99","64,08","62,78",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+364,Kab. Tana Toraja,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,93",-,"59,20","63,60","69,84","55,11",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+365,Kab. Wajo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,22",-,"63,18","80,26","49,50","71,38",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+366,Kota Pare-pare,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,35",-,"59,04","77,83","57,89","54,58",-,"70,00",Tidak,Tidak,"84,82",Tidak,Tidak
+367,Kota Makassar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,91",-,"87,53","72,28","61,87","73,25",-,Tidak,Tidak,"72,50","87,94",Tidak,Tidak
+368,Kab. Toraja Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,97",-,"78,02","72,80","65,85","60,77",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+369,Provinsi Sulawesi Tenggara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,06",-,"84,88","56,04","47,18","53,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+370,Kab. Buton,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"44,80",-,"66,08","53,53","63,57","59,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+371,Kab. Konawe,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,75",-,"72,00","77,57","60,43","67,34",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+372,Kab. Kolaka,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,10",-,"70,51","69,67","63,33","69,02",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+373,Kab. Muna,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,51",-,"47,14","51,95","68,88","72,88",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+374,Kota Kendari,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,27",-,"73,15","44,73","62,04","73,55",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+375,Kota Bau-bau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"70,12",-,"59,39","47,52","58,10","61,25",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+376,Kab. Konawe Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,57",-,"48,27","65,42","48,96","56,19",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+377,Kab. Bombana,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"40,58",-,"77,44","77,46","67,46","72,96",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+378,Kab. Wakatobi,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,63",-,"84,03","59,47","68,21","66,00",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+379,Kab. Kolaka Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,75",-,"66,06","47,38","51,82","65,87",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+380,Kab. Konawe Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,91",-,"57,43","53,35","66,14","54,73",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+381,Kab. Buton Utara,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"60,13",-,"55,24","56,54","72,35","59,39",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+382,Kab. Konawe Kepulauan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,35",-,"57,96","57,56","81,82","62,78",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+383,Kab. Kolaka Timur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"59,63",-,"68,35","63,26","79,73","71,01",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+384,Kab. Muna Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,88",-,"52,01","69,08","73,55","63,89",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+385,Kab. Buton Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,20",-,"86,82","57,82","69,35","43,60",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+386,Kab. Buton Selatan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,05",-,"79,58","81,86","70,25","57,69",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+387,Provinsi Bali,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,92",-,"84,38","87,21","86,38","73,88",-,Tidak,Tidak,Tidak,Tidak,"71,60","76,73"
+388,Kab. Badung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"69,12",-,"87,08","89,69","84,49","73,95",-,Tidak,Tidak,Tidak,Tidak,Tidak,"77,53"
+389,Kab. Bangli,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"46,59",-,"61,55","75,76","75,25","72,70",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+390,Kab. Buleleng,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,62",-,"78,61","69,55","76,27","67,45",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+391,Kab. Gianyar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"74,50",-,"75,22","84,26","68,93","64,23",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+392,Kab. Jembrana,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,22",-,"66,53","67,82","63,34","54,99",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+393,Kab. Karangasem,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,91",-,"65,04","81,13","72,35","58,19",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+394,Kab. Klungkung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,33",-,"74,02","93,60","63,19","79,17",-,"75,00",Tidak,Tidak,Tidak,Tidak,Tidak
+395,Kab. Tabanan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,24",-,"89,70","85,98","76,09","75,90",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+396,Kota Denpasar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"68,54",-,"63,74","69,60","63,65","65,43",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+397,Provinsi Nusa Tenggara Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,49",-,"61,49","52,13","70,48","71,04",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+398,Kab. Bima,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,45",-,"58,07","53,74","61,35","71,55",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+399,Kab. Dompu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,71",-,"66,08","47,16","62,79","85,65",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+400,Kab. Lombok Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,39",-,"61,47","60,79","48,71","77,60",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+401,Kab. Lombok Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,11",-,"55,09","61,79","55,87","83,62",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+402,Kab. Lombok Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,67",-,"41,97","68,53","59,87","63,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+403,Kab. Sumbawa,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,78",-,"60,36","54,71","62,52","84,30",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+404,Kota Mataram,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,02",-,"67,62","50,27","68,52","76,53",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+405,Kota Bima,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,99",-,"65,63","64,43","51,60","79,25",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+406,Kab. Sumbawa Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,73",-,"89,25","53,83","66,62","85,83",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+407,Kab. Lombok Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"70,55",-,"70,81","71,82","55,67","66,70",-,Tidak,Tidak,Tidak,Tidak,"75,10",Tidak
+408,Provinsi Nusa Tenggara Timur,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,92",-,"62,67","59,97","44,29","55,33",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+409,Kab. Alor,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"60,51",-,"74,20","71,70","67,57","71,39",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+410,Kab. Belu,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"62,03",-,"44,21","73,58","62,06","50,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+411,Kab. Ende,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,51",-,"49,61","66,98","56,49","41,72",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+412,Kab. Flores Timur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"48,41",-,"63,82","81,69","53,25","66,95",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+413,Kab. Kupang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"56,33",-,"69,36","60,80","65,16","65,84",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+414,Kab. Lembata,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"51,84",-,"51,14","55,30","49,86","38,83",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+415,Kab. Manggarai,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"53,06",-,"41,22","48,49","67,73","66,19",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+416,Kab. Ngada,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"68,66",-,"78,52","62,66","66,63","67,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+417,Kab. Sikka,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,34",-,"66,43","70,60","60,02","64,96",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+418,Kab. Sumba Barat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,53",-,"53,66","52,63","42,81","49,29",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+419,Kab. Sumba Timur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"47,58",-,"60,98","58,07","53,76","67,84",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+420,Kab. Timor Tengah Selatan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"60,74",-,"58,70","69,16","76,46","61,13",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+421,Kab. Timor Tengah Utara,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"44,90",-,"64,25","74,15","50,34","65,13",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+422,Kota Kupang,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"60,17",-,"53,02","74,04","41,98","57,95",-,Tidak,"69,84",Tidak,Tidak,Tidak,Tidak
+423,Kab. Rote Ndao,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"50,02",-,"76,28","56,90","51,00","73,75",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+424,Kab. Manggarai Barat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"50,48",-,"66,53","81,31","66,99","80,26",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+425,Kab. Nagekeo,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"59,41",-,"74,85","72,14","60,32","72,40",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+426,Kab. Sumba Barat Daya                             ,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,39",-,"59,12","51,01","76,79","54,64",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+427,Kab. Sumba Tengah                                 ,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"56,44",-,"53,38","63,30","62,46","68,92",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+428,Kab. Manggarai Timur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"48,25",-,"47,19","57,39","54,53","74,05",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+429,Kab. Sabu Raijua,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"37,55",-,"50,70","74,72","64,14","69,99",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+430,Kab. Malaka,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,90",-,"68,22","72,01","56,04","61,66",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+431,Provinsi Maluku,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,49",-,"40,06","65,75","59,37","57,96",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+432,Kab. Maluku Tenggara Barat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,87",-,"62,78","56,22","55,11","62,57",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+433,Kab. Maluku Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,51",-,"65,75","44,04","77,07","70,19",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+434,Kab. Maluku Tenggara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,50",-,"46,57","85,57","57,90","72,49",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+435,Kab. Buru                                         ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,78",-,"41,88","56,40","63,77","83,84",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+436,Kota Ambon,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,74",-,"62,18","78,57","55,94","65,70",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+437,Kab. Seram Bagian Barat,-,TMP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"59,03",-,"67,43","54,33","76,96","64,99",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+438,Kab. Seram Bagian Timur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,29",-,"76,65","48,68","67,87","77,60",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+439,Kab. Kepulauan Aru,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"59,00",-,"47,94","70,39","54,68","75,50",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+440,Kota Tual,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"49,11",-,"64,10","56,74","51,98","47,48",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+441,Kab. Maluku Barat Daya,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,03",-,"45,75","79,73","45,39","66,52",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+442,Kab. Buru Selatan,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,42",-,"54,37","57,41","71,02","56,98",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+443,Provinsi Papua,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"43,08",-,"50,10","54,36","28,34","50,00",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+444,Kab. Biak Numfor,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"36,06",-,"61,31","67,82","56,95","68,31",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+445,Kab. Jayapura,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,33",-,"63,55","69,51","60,23","75,51",-,Tidak,"65,84",Tidak,Tidak,Tidak,Tidak
+446,Kab. Jayawijaya,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,87",-,"59,58","41,82","61,55","65,80",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+447,Kab. Merauke,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,00",-,"52,95","79,42","54,12","69,53",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+448,Kab. Mimika,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"38,48",-,"46,45","59,09","53,47","62,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+449,Kab. Nabire,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"44,24",-,"68,74","73,22","52,25","66,32",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+450,Kab. Paniai,-,WDP,Tepat Waktu,e-proc,Tidak e-budgeting,Tersedia,Tidak Memenuhi,-,"47,18",-,"62,55","49,22","81,84","53,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+451,Kab. Puncak Jaya,-,WDP,Terlambat,e-proc,Tidak e-budgeting,Tersedia,Tidak Memenuhi,-,"51,48",-,"51,67","49,45","48,23","63,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+452,Kab. Kepulauan Yapen                              ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,44",-,"58,49","44,42","54,67","64,98",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+453,Kota Jayapura,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"47,41",-,"69,65","71,71","59,50","82,17",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+454,Kab. Sarmi,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"49,28",-,"46,65","62,54","43,84","64,88",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+455,Kab. Keerom,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"42,88",-,"46,55","62,09","71,83","76,83",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+456,Kab. Yahukimo,-,WDP,Tepat Waktu,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"41,14",-,"44,29","45,75","54,69","61,72",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+457,Kab. Pegunungan Bintang,-,WDP,Tepat Waktu,e-proc,Tidak e-budgeting,Tersedia,Tidak Memenuhi,-,"56,82",-,"71,99","37,27","37,69","64,83",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+458,Kab. Tolikara,-,TMP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"37,29",-,"52,86","45,61","60,35","59,41",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+459,Kab. Boven Digoel,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,23",-,"64,01","75,40","56,08","72,69",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+460,Kab. Mappi,-,TMP,Terlambat,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,05",-,"40,71","59,14","36,27","61,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+461,Kab. Asmat,-,WTP,Tepat Waktu,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"59,10",-,"47,36","42,69","69,31","69,28",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+462,Kab. Waropen,-,TMP,Tepat Waktu,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"56,61",-,"49,20","69,23","38,02","67,92",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+463,Kab. Supiori,-,WDP,Terlambat,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,09",-,"53,86","65,92","48,19","62,67",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+464,Kab. Mamberamo Raya,-,TMP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,50",-,"36,53","62,04","60,19","49,70",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+465,Kab. Mamberamo Tengah,-,TMP,Terlambat,e-proc,Tidak e-budgeting,Tersedia,Tidak Memenuhi,-,"54,60",-,"31,94","85,51","63,38","62,38",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+466,Kab. Yalimo,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"48,50",-,"56,57","48,50","68,76","63,54",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+467,Kab. Lanny Jaya,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"52,36",-,"32,33","58,26","51,96","60,89",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+468,Kab. Nduga,-,WDP,Tepat Waktu,e-proc,Tidak e-budgeting,Tersedia,Tidak Memenuhi,-,"52,13",-,"53,64","44,25","81,16","53,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+469,Kab. Dogiyai,-,TMP,Tepat Waktu,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"51,69",-,"28,41","57,62","79,56","63,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+470,Kab. Puncak ,-,TMP,Tepat Waktu,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"48,23",-,"61,25","71,83","58,49","59,71",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+471,Kab. Intan Jaya,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,84",-,"19,82","53,82","48,37","58,94",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+472,Kab. Deiyai,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"38,50",-,"49,50","38,76","57,67","47,14",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+473,Provinsi Maluku Utara,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,65",-,"67,55","65,72","46,41","50,71",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+474,Kab. Halmahera Tengah,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,36",-,"49,67","63,99","56,73","65,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+475,Kota Ternate,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"49,76",-,"81,17","67,63","64,74","72,41",-,Tidak,"74,78",Tidak,Tidak,Tidak,Tidak
+476,Kab. Halmahera Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"43,12",-,"52,80","68,97","77,27","56,25",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+477,Kab. Halmahera Timur,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"63,55",-,"61,96","79,72","68,96","78,05",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+478,Kab. Halmahera Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,45",-,"53,98","48,02","64,62","58,33",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+479,Kab. Halmahera Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"64,21",-,"63,76","67,42","52,09","60,03",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+480,Kab. Kepulauan Sula,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"62,18",-,"80,78","52,73","63,92","67,86",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+481,Kota Tidore Kepulauan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,58",-,"66,55","87,35","46,90","59,15",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+482,Kab. Pulau Morotai,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,93",-,"80,44","54,74","72,78","68,17",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+483,Kab. Pulau Taliabu,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"57,23",-,"60,19","77,64","61,09","54,85",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+484,Provinsi Banten,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,33",-,"53,32","43,95","61,37","50,44",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+485,Kab. Lebak,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"44,62",-,"39,31","63,62","65,14","55,74",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,07"
+486,Kab. Pandeglang,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,97",-,"45,35","62,39","54,33","55,48",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+487,Kab. Serang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,16",-,"72,42","58,22","68,39","59,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,01"
+488,Kab. Tangerang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,28",-,"82,56","57,97","65,09","61,35",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+489,Kota Cilegon,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,05",-,"65,38","71,90","65,79","52,18",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+490,Kota Tangerang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"71,92",-,"69,15","51,67","67,52","55,79",-,Tidak,Tidak,Tidak,"85,05",Tidak,Tidak
+491,Kota Serang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,98",-,"61,06","53,51","60,81","48,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+492,Kota Tangerang Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"76,94",-,"52,11","57,10","57,61","76,11",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+493,Provinsi  Bangka Belitung,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,98",-,"76,16","53,35","57,66","55,25",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+494,Kab. Bangka,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"67,31",-,"75,19","74,16","72,54","80,32",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+495,Kab. Belitung,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,49",-,"76,04","65,71","65,07","59,90",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+496,Kota Pangkal Pinang ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,68",-,"69,55","45,31","52,87","62,04",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+497,Kab. Bangka Selatan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,97",-,"69,71","56,07","74,25","59,52",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+498,Kab. Bangka Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"59,35",-,"50,70","60,69","70,70","53,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+499,Kab. Bangka Barat,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"44,16",-,"85,49","74,05","65,02","55,17",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+500,Kab. Belitung Timur,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,31",-,"64,79","58,64","68,62","59,85",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+501,Provinsi Gorontalo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,70",-,"53,22","74,43","59,54","57,39",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+502,Kab. Boalemo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"47,18",-,"54,37","61,20","57,55","54,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+503,Kab. Gorontalo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"61,24",-,"60,45","68,63","63,03","74,49",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+504,Kota Gorontalo,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,41",-,"65,01","51,78","57,46","72,68",-,Tidak,Tidak,Tidak,"85,49",Tidak,Tidak
+505,Kab. Pohuwato,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"47,97",-,"79,31","72,00","73,47","54,82",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+506,Kab. Bone Bolango,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"58,98",-,"57,19","81,89","76,35","65,08",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,01"
+507,Kab. Gorontalo Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,04",-,"68,12","78,71","48,96","49,63",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+508,Provinsi Kepulauan Riau                           ,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,48",-,"73,68","74,71","64,91","53,41",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,13"
+509,Kab. Natuna,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"52,95",-,"60,73","72,03","62,65","55,80",-,Tidak,Tidak,Tidak,Tidak,Tidak,"70,02"
+510,Kab. Kepulauan Anambas,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"46,21",-,"31,53","56,19","48,99","64,93",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+511,Kab. Karimun,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"55,51",-,"72,06","77,28","58,82","59,81",-,Tidak,Tidak,Tidak,Tidak,Tidak,"72,06"
+512,Kota Batam,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,76",-,"75,95","69,26","74,30","65,79",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+513,Kota Tanjung Pinang,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"56,42",-,"73,17","75,50","67,08","52,00",-,Tidak,Tidak,Tidak,Tidak,Tidak,"77,39"
+514,Kab. Lingga,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,76",-,"36,66","66,17","65,96","84,09",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+515,Kab. Bintan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"53,25",-,"78,68","71,82","74,55","74,35",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+516,Provinsi Papua Barat,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"53,72",-,"62,79","33,01","33,00","57,29",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+517,Kab. Fak Fak,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"66,82",-,"66,34","50,23","62,28","65,51",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+518,Kab. Manokwari,-,WDP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,66",-,"75,48","35,55","46,95","62,32",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+519,Kab. Sorong,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"60,42",-,"68,99","66,87","55,38","66,39",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+520,Kota Sorong,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"55,63",-,"67,99","42,05","40,11","47,31",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+521,Kab. Raja Ampat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"50,40",-,"56,79","73,84","56,24","67,39",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+522,Kab. Sorong Selatan,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"57,41",-,"53,85","63,28","63,04","72,86",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+523,Kab. Teluk Bintuni,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"74,73",-,"51,05","72,07","58,72","52,55",-,"70,00",Tidak,Tidak,Tidak,Tidak,Tidak
+524,Kab. Teluk Wondama,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"49,42",-,"41,64","59,48","54,34","49,36",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+525,Kab. Kaimana,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"50,28",-,"70,21","67,15","52,57","62,99",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+526,Kab. Maybrat,-,WTP,Tepat Waktu,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"58,94",-,"49,56","61,88","91,72","49,87",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+527,Kab. Tambrauw,-,WTP,Tepat Waktu,Belum e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,19",-,"51,06","38,06","73,18","58,87",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+528,Kab. Manokwari Selatan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"54,52",-,"54,51","56,51","84,06","57,02",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+529,Kab. Pegunungan Arfak,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"47,12",-,"46,77","45,54","49,41","45,96",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+530,Provinsi Sulawesi Barat,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"66,52",-,"51,28","62,58","65,95","73,32",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+531,Kab. Majene,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"62,49",-,"69,83","55,97","71,16","78,67",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+532,Kab. Mamuju,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"65,96",-,"60,78","69,32","60,52","64,58",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+533,Kab. Polewali Mandar,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"47,93",-,"57,16","76,33","46,16","82,26",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+534,Kab. Mamasa,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,17",-,"46,64","60,07","70,65","65,76",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+535,Kab. Pasangkayu,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"68,59",-,"62,50","41,12","72,95","59,27",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+536,Kab. Mamuju Tengah,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"71,29",-,"56,72","75,10","67,10","63,32",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+537,Provinsi Kalimantan Utara,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"54,62",-,"52,95","63,24","56,52","59,20",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+538,Kab. Bulungan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"45,20",-,"69,67","56,88","63,18","71,01",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+539,Kab. Malinau,-,WTP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Memenuhi,-,"51,13",-,"44,47","64,63","60,49","59,86",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+540,Kab. Nunukan,-,WTP,Terlambat,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"61,74",-,"66,15","49,65","70,84","64,43",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+541,Kota Tarakan,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"40,88",-,"48,25","64,17","71,19","52,32",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
+542,Kab. Tana Tidung,-,WDP,Tepat Waktu,e-proc,e-budgeting,Tersedia,Tidak Memenuhi,-,"70,19",-,"56,48","47,16","56,59","64,71",-,Tidak,Tidak,Tidak,Tidak,Tidak,Tidak
